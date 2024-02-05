@@ -6,9 +6,9 @@
 
 ### **Clone the repository**: 
 
-##### **Clone the frontend**: git clone <repository-url>
+##### **Clone the frontend**: git clone https://github.com/AjayShukla007/rtspStreamFrontend
 
-##### **Clone the backend**: git clone <repository-url>
+##### **Clone the backend**: git clone https://github.com/AjayShukla007/rtspStreamBackend
 
 **Install dependencies**:` npm install`
 
